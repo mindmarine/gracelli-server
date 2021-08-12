@@ -39,11 +39,11 @@ All users would need to be able to create an account, sign in, change passwords 
 
 
 # Wireframe
-![gracelli wireframe](public/gracelli_wireframe.png "gracelli wireframe")
+![gracelli wireframe](images/gracelli_wireframe.png "gracelli wireframe")
 
 # Entity Relationship Diagram
 
-![gracelli ERD](public/Eccomerce_Entity_Relationship_Diagram.png "gracelli entity relationship diagram")
+![gracelli ERD](images/Eccomerce_Entity_Relationship_Diagram.png "gracelli entity relationship diagram")
 
 
 # Technologies used
